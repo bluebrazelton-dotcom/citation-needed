@@ -1,7 +1,7 @@
 # 🎓 Citation Needed: The Academic Career Simulator
 
 **[▶️ Play Live in Your Browser: bluebrazelton.com/citation-needed/](https://bluebrazelton.com/citation-needed/)**
-
+📄 **[Read the Full Engineering & Development Case Study](./DEVELOPMENT_REPORT.md)**
 **Citation Needed** is a single-file, browser-based pixel-art incremental and active management game that simulates the full arc of an academic career—from an over-caffeinated Undergraduate Assistant all the way to an Endowed Chair.
 
 Built with vanilla JavaScript, HTML5 `<canvas>`, and Tailwind CSS, the game captures both the joyful absurdity and the grind of scholarly life across four distinct academic disciplines.
