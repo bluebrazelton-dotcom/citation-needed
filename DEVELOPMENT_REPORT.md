@@ -1,6 +1,6 @@
 # 🏗️ Development Case Study: Building *Citation Needed: The Academic Career Simulator*
 
-* **Live Deployment:** [https://bluebrazelton.com/citation-needed/](https://bluebrazelton.com/citation-needed/)
+* **Live Deployment:** [bluebrazelton.com/citation-needed/play/build-3/](https://bluebrazelton.com/citation-needed/play/build-3/) (alongside the other two builds, with notes, at [bluebrazelton.com/citation-needed/](https://bluebrazelton.com/citation-needed/))
 * **Repository:** [github.com/bluebrazelton-dotcom/citation-needed](https://github.com/bluebrazelton-dotcom/citation-needed)
 * **Architecture:** Single-file HTML5 (`<canvas>`), Vanilla JavaScript, Tailwind CSS (CDN), Browser `localStorage`
 * **Development Model:** Iterative AI-Collaborative Engineering (Scoping $\rightarrow$ Single-Shot Prototype $\rightarrow$ Multi-Discipline Expansion $\rightarrow$ Automated Telemetry & QA $\rightarrow$ Production Deployment)
@@ -9,7 +9,7 @@
 
 ## 1. Project Genesis & Pre-Build Scoping
 
-The objective of this project was to evaluate how an AI coding collaborator (Gemini Argon) handles building a complete, playable browser-based incremental and active-management game from scratch—and to compare the workflow and output against parallel single-shot builds in Claude and ChatGPT.
+The objective of this project was to evaluate how an AI coding collaborator (Gemini Argon) handles building a complete, playable browser-based incremental and active-management game from scratch—and to compare the workflow and output against two earlier builds of the same game: a six-week build in ChatGPT (Astra) and Codex, and a two-day build in Claude Code (Fable).
 
 Rather than jumping blindly into code generation, the build began with a three-question scoping phase to lock in the game design, mechanics, and aesthetic constraints:
 
